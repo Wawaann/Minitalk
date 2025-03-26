@@ -58,8 +58,8 @@ To compile and run this project, you need:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/minitalk.git
-    cd minitalk
+    git clone https://github.com/Wawaann/Minitalk.git
+    cd Minitalk
     ```
 
 2. Compile the project:
